@@ -2,6 +2,8 @@
   "name": "myproject",
   "integrations": {},
   "type": "ionic1",
+  "typescript": true,
+  "v2": true,
   "watchPatterns": [
     "scss/**/*",
     "www/**/*",
